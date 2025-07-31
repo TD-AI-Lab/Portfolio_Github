@@ -21,6 +21,16 @@ Le modèle utilisé afin de classifier votre audio est un réseau de neurones cr
 
 ---
 
+📦 Pour cloner uniquement ce projet :
+
+```bash
+git clone --filter=blob:none --sparse https://github.com/TD-AI-Lab/Portfolio_Github.git
+cd Portfolio_Github
+git sparse-checkout set MiniMoodVoice
+```
+
+---
+
 ## 📁 Structure du projet
 
 ```
