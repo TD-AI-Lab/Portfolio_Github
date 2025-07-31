@@ -11,6 +11,16 @@ AutoTagger Audio est une application **Streamlit** pour l’analyse **locale** d
 
 ---
 
+📦 Pour cloner uniquement ce projet :
+
+```bash
+git clone --filter=blob:none --sparse https://github.com/TD-AI-Lab/Portfolio_Github.git
+cd Portfolio_Github
+git sparse-checkout set Auto_tagger_audio
+```
+
+---
+
 ## ⚡ Installation
 
 > 🎯 Requiert **Python 3.6** (compatibilité `musicnn` & `tensorflow 2.3.0`)  
