@@ -178,3 +178,10 @@ Toute utilisation par une entreprise, dans un cadre commercial, ou intégrée à
 Contact : tdai.flo@gmail.com
 
 Modification, redistribution ou hébergement du code à des fins commerciales sans accord explicite sont strictement interdits.
+
+---
+
+## 📬 Contact
+
+📧 tdai.flo@gmail.com  
+🐦 [@TD_AI_Lab](https://x.com/TD_AI_Lab)
