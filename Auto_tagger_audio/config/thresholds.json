@@ -1,0 +1,51 @@
+{
+  "bpm": {
+    "very_slow": 60,
+    "slow": 80,
+    "medium": 110,
+    "upbeat": 130,
+    "fast": 150,
+    "very_fast": 180
+  },
+  "rms": {
+    "silent": 0.01,
+    "low": 0.05,
+    "medium": 0.1,
+    "high": 0.2,
+    "very_high": 0.4
+  },
+  "mfcc": {
+    "brightness_threshold": 30,
+    "darkness_threshold": 15,
+    "richness_threshold": 20
+  },
+  "chroma": {
+    "harmonic_richness": 0.5,
+    "tonal_strength": 0.7
+  },
+  "silence": {
+    "ratio_threshold": 0.5
+  },
+  "tags": {
+    "energy": {
+      "low": ["calm", "ambient", "soft"],
+      "medium": ["groovy", "relaxed"],
+      "high": ["energetic", "lively", "intense"]
+    },
+    "tempo": {
+      "very_slow": ["ballad", "ambient"],
+      "slow": ["slow", "chill"],
+      "medium": ["moderate", "groove"],
+      "upbeat": ["upbeat", "happy"],
+      "fast": ["fast", "dance"],
+      "very_fast": ["frenetic", "drum and bass"]
+    },
+    "dynamics": {
+      "silent": ["silence", "pause"],
+      "low": ["soft", "minimal"],
+      "medium": ["balanced", "clean"],
+      "high": ["strong", "full"],
+      "very_high": ["loud", "aggressive"]
+    }
+  }
+}
