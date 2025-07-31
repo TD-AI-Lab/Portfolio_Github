@@ -42,20 +42,14 @@ PRICE_HOUSING/
 
 ## 🚀 Installation
 
-### 1. Cloner le dépôt
-```bash
-git clone https://github.com/votre-utilisateur/PRICE_HOUSING.git
-cd PRICE_HOUSING
-```
-
-### 2. Créer un environnement virtuel (optionnel mais recommandé)
+### 1. Créer un environnement virtuel (optionnel mais recommandé)
 ```bash
 python -m venv venv
 source venv/bin/activate  # Sous Linux/Mac
 venv\Scripts\activate     # Sous Windows
 ```
 
-### 3. Installer les dépendances
+### 2. Installer les dépendances
 ```bash
 pip install -r requirements.txt
 ```
