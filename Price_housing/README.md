@@ -10,6 +10,16 @@ Un modèle de Machine Learning (**SVR - Support Vector Regressor**) a été entr
 
 ---
 
+📦 Pour cloner uniquement ce projet :
+
+```bash
+git clone --filter=blob:none --sparse https://github.com/TD-AI-Lab/Portfolio_Github.git
+cd Portfolio_Github
+git sparse-checkout set Price_housing
+```
+
+---
+
 ## 📁 Structure du projet
 
 ```
