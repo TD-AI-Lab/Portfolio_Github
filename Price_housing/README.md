@@ -89,12 +89,12 @@ Vous pourrez alors renseigner les informations de la maison et obtenir une estim
 
 <h3 align="center">Interface principale</h3>
 <p align="center">
-  <img src="images/Interface_principale.png" style="max-width:500px; height:auto;" alt="Interface principale">
+  <img src="Images/Interface_principale.png" style="max-width:500px; height:auto;" alt="Interface principale">
 </p>
 
 <h3 align="center">Prediction du prix</h3>
 <p align="center">
-  <img src="images/Interface_principale_2.png" style="max-width:500px; height:auto;" alt="Prediction du prix">
+  <img src="Images/Interface_principale_2.png" style="max-width:500px; height:auto;" alt="Prediction du prix">
 </p>
 
 ---
