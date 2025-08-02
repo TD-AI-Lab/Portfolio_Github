@@ -103,17 +103,17 @@ Voici ce qu’il faut savoir sur ses performances :
 
 <h3 align="center">Interface principale avant analyse</h3>
 <p align="center">
-  <img src="images/Interface_1.png" style="max-width:500px; height:auto;" alt="Interface principale avant analyse">
+  <img src="images/interface_1.png" style="max-width:500px; height:auto;" alt="Interface principale avant analyse">
 </p>
 
 <h3 align="center">Interface principale après analyse</h3>
 <p align="center">
-  <img src="images/Interface_2.png" style="max-width:500px; height:auto;" alt="Interface principale après analyse">
+  <img src="images/interface_2.png" style="max-width:500px; height:auto;" alt="Interface principale après analyse">
 </p>
 
 <h3 align="center">Tableau de probabilités et journal</h3>
 <p align="center">
-  <img src="images/Interface_3.png" style="max-width:500px; height:auto;" alt="Tableau de probabilités et journal">
+  <img src="images/interface_3.png" style="max-width:500px; height:auto;" alt="Tableau de probabilités et journal">
 </p>
 
 ---
